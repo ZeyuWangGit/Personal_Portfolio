@@ -1,0 +1,29 @@
+/* add your CSS here */
+#Interesting_fact{
+    font-style: italic;
+    padding: 5px;
+}
+.Name{
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+}
+#Information_border{
+    border-style: groove;
+    height: auto;
+}
+#Upper_border{
+    border-style: groove;
+    width: 302px;
+}
+#list1{
+    padding: 5px;
+}
+#description{
+    padding:5px;
+}
+img{
+    vertical-align: text-bottom;
+    padding-bottom: 10px;
+}
